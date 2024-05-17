@@ -1,0 +1,12 @@
+Exploratory Data Analysis (EDA) is a fundamental step in data science projects. It involves understanding the dataset without biased assumptions, allowing effective preprocessing before modeling1. Here are the key goals of EDA:
+
+1.Data Cleaning: Identify errors, missing values, and outliers. Techniques include imputation and outlier removal.
+2.Descriptive Statistics: Understand central tendency, variability, and distribution using measures like mean, median, and standard deviation.
+3.Data Visualization: Use graphs (histograms, scatter plots, etc.) to reveal patterns and relationships.
+4.Feature Engineering: Explore variables and create new features.
+5.Correlation and Relationships: Discover dependencies between variables.
+6.Data Segmentation: Divide data into meaningful segments.
+7.Hypothesis Generation: Formulate research questions based on initial exploration.
+8.Data Quality Assessment: Evaluate data integrity and accuracy2.
+
+Remember, EDA helps us ask “what” about the data, not “how”!
